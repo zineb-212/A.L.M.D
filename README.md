@@ -3,11 +3,14 @@
 
 ## Overview
 My team and I developed a landmine detector robot, designed to safely identify and map the locations of landmines. The robot is equipped with a metal detector to identify potential landmines buried underground and ultrasonic sensors for autonomous navigation, allowing it to avoid obstacles in real-time. To precisely log the locations of detected landmines, we integrated a GPS module that records geographical coordinates, which are processed to create a detailed map. We 3D-printed the robot's frame, then assembled all the components before programming the system. This project gave us critical insights into sensor integration, GPS mapping, and autonomous robotic systems while contributing to a solution for an important humanitarian issue.
-<div style="display: flex; justify-content: space-between;">
-  <img src="link-to-your-image-1" alt="Image 1" style="width: 30%;"/>
-  <img src="link-to-your-image-2" alt="Image 2" style="width: 30%;"/>
-  <img src="link-to-your-image-3" alt="Image 3" style="width: 30%;"/>
+<div style="width: 700px; display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/7fb87300-9450-41d9-b384-80bef7615f1f" alt="Image 1" style="width: 20%;"/>
+  <img src="https://github.com/user-attachments/assets/dede093e-7caf-43d3-b174-f62486234e99" alt="Image 2" style="width: 20%;"/>
+  <img src="https://github.com/user-attachments/assets/ffe642a0-5ef9-4919-8ec5-bcc321d460ca" alt="Image 3" style="width: 20%;"/>
 </div>
+
+
+
 
 
 ## Main features
