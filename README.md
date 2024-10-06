@@ -16,4 +16,34 @@ My team and I developed a landmine detector robot, designed to safely identify a
 - **GPS Module:** Logs the geographical coordinates of detected landmines for precise location mapping.
 - **Autonomous Operation:** The robot navigates and detects landmines independently, reducing human risk in hazardous areas.
 
+  ### Results
+    <img width="300" alt="a"  src="https://github.com/user-attachments/assets/b7bea3c4-072b-4ad1-a201-447bf2374e5e">
+    
+    In this image, we can see the locations of landmines detected by our robot during real-life tests.
+
+  ## Learning outcomes
+
+ - **Sensor Integration:** Gained practical experience in integrating various sensors, such as metal detectors and ultrasonic sensors, to enhance the robot's detection and navigation capabilities.
+
+- **Autonomous Navigation:** Developed a deeper understanding of how to program robots for autonomous movement, enabling them to navigate around obstacles 
+
+- **GPS Mapping:** Learned how to implement GPS technology for logging geographical coordinates, which is essential for accurately mapping the locations of detected landmines.
+
+- **Programming Skills:** Enhanced programming skills through writing clean and efficient code to control the robot’s functionalities and processes.
+
+- **3D Printing and Assembly:** Acquired hands-on experience in 3D printing the robot's components, assembling them, and troubleshooting hardware issues.
+
+- **Problem-Solving:** Improved problem-solving abilities by addressing challenges related to sensor calibration and navigation algorithms.
+
+- **Team Collaboration:** Fostered teamwork and collaboration skills while working with team members to design, develop, and test the robot.
+
+- **Humanitarian Awareness:** Gained insights into the humanitarian impact of landmines and the importance of technology in addressing such critical issues.
+
+## Contributors
+#### EL MIDAOUI Imane
+#### AIT EL CADI Shadia
+#### M'HIFED Zineb
+
+
+
 
