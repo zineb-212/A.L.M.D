@@ -1,4 +1,4 @@
-# A.L.M.D
+# A.L.M.D 💥 
   <img width="700" alt="a"  src="https://github.com/user-attachments/assets/6c21e2eb-88cf-430d-adb6-e7da43986d53">
 
 ## Overview
